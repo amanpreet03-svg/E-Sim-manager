@@ -420,14 +420,6 @@ GNU General Public License v3.0
 
 ---
 
-<div align="center">
 
-⭐ If you find this project useful, please consider giving it a star! ⭐
 
-Made with ❤️ for the eSim Community
-
-Developed as part of eSim Semester Long Internship Spring 2026
-
-</div>
-```
 
