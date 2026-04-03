@@ -1,0 +1,12 @@
+2026-01-27 18:39:36,159 - esim_tool_manager.core.tool_manager - [32mINFO[0m - Tool Manager initialized on windows
+2026-01-27 18:40:13,583 - esim_tool_manager.utils.download_utils - [32mINFO[0m - Downloading: https://sourceforge.net/projects/ngspice/files/ng-spice-rework/43/ngspice-43_64.zip/download
+2026-01-27 18:40:14,119 - esim_tool_manager.utils.download_utils - [31mERROR[0m - HTTP Error 403: Forbidden
+2026-01-27 18:44:51,977 - esim_tool_manager.core.tool_manager - [32mINFO[0m - Tool Manager initialized on windows
+2026-01-27 18:50:16,614 - esim_tool_manager.utils.download_utils - [32mINFO[0m - Using mirror: https://github.com/ngspice/ngspice/releases/download/ngspice-43/ngspice-43_64.zip
+2026-01-27 18:50:16,615 - esim_tool_manager.utils.download_utils - [32mINFO[0m - Downloading: https://github.com/ngspice/ngspice/releases/download/ngspice-43/ngspice-43_64.zip
+2026-01-27 18:50:17,339 - esim_tool_manager.utils.download_utils - [31mERROR[0m - Requests download failed: 404 Client Error: Not Found for url: https://github.com/ngspice/ngspice/releases/download/ngspice-43/ngspice-43_64.zip
+2026-01-27 18:50:17,800 - esim_tool_manager.utils.download_utils - [31mERROR[0m - Urllib download failed: HTTP Error 404: Not Found
+2026-01-27 19:05:13,968 - esim_tool_manager.utils.download_utils - [32mINFO[0m - Using mirror: https://github.com/ngspice/ngspice/releases/download/ngspice-43/ngspice-43_64.zip
+2026-01-27 19:05:13,969 - esim_tool_manager.utils.download_utils - [32mINFO[0m - Downloading: https://github.com/ngspice/ngspice/releases/download/ngspice-43/ngspice-43_64.zip
+2026-01-27 19:05:14,677 - esim_tool_manager.utils.download_utils - [31mERROR[0m - Requests download failed: 404 Client Error: Not Found for url: https://github.com/ngspice/ngspice/releases/download/ngspice-43/ngspice-43_64.zip
+2026-01-27 19:05:15,123 - esim_tool_manager.utils.download_utils - [31mERROR[0m - Urllib download failed: HTTP Error 404: Not Found
