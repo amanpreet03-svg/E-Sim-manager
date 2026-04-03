@@ -1,0 +1,12 @@
+{
+    "auto_update_check": true,
+    "update_check_interval_days": 7,
+    "parallel_downloads": 2,
+    "verify_checksums": true,
+    "keep_downloaded_files": false,
+    "log_level": "INFO",
+    "backup_before_update": true,
+    "max_backup_count": 3,
+    "show_notifications": true,
+    "theme": "default"
+}
