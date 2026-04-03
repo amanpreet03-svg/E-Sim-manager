@@ -1,9 +1,0 @@
-2026-01-26 22:36:19,079 - esim_tool_manager.core.tool_manager - INFO - Tool Manager initialized on windows
-2026-01-26 22:37:18,344 - esim_tool_manager.core.dependency_checker - INFO - Installing dependency: make
-2026-01-26 22:39:19,619 - esim_tool_manager.core.dependency_checker - ERROR - Failed to install make: 
-2026-01-26 22:39:19,619 - esim_tool_manager.core.dependency_checker - INFO - Installing dependency: cmake
-2026-01-26 23:25:30,944 - esim_tool_manager.core.dependency_checker - ERROR - Installation of cmake timed out
-2026-01-26 23:25:40,595 - esim_tool_manager.core.tool_manager - INFO - Installing ngspice version 42
-2026-01-26 23:25:40,601 - esim_tool_manager.core.dependency_checker - WARNING - Missing dependency: libreadline
-2026-01-26 23:25:40,605 - esim_tool_manager.core.dependency_checker - WARNING - Missing dependency: libpthread
-2026-01-26 23:25:40,605 - esim_tool_manager.core.tool_manager - ERROR - Missing dependencies for ngspice: ['libreadline', 'libpthread']
